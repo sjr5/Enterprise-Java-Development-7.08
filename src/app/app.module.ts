@@ -9,8 +9,7 @@ import { CharacterDetailComponent } from './components/character-detail/characte
 @NgModule({
   declarations: [
     AppComponent,
-    CharacterListComponent,
-    CharacterDetailComponent
+   
   ],
   imports: [
     BrowserModule,
